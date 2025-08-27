@@ -78,9 +78,9 @@ graph TB
 
 | Backend | Use Case | Performance | Privacy |
 |---------|----------|-------------|---------|
-| **Google Gemini** | Production workloads | ⚡⚡⚡ Ultra-fast | 🌐 Cloud-based |
-| **Local LLM** | Sensitive data | ⚡⚡ Fast | 🔒 On-premises |
-| **Ngrok Tunnel** | Hybrid deployment | ⚡⚡ Fast | 🔒 Local with cloud access |
+| **Google Gemini** | Production workloads |  Ultra-fast | 🌐 Cloud-based |
+| **Local LLM** | Sensitive data |  Fast | On-premises |
+| **Ngrok Tunnel** | Hybrid deployment |  Fast |  Local with cloud access |
 
 ---
 
@@ -94,22 +94,22 @@ graph TB
 covering the last 2 years with seasonal patterns and multiple payment methods"
 ```
 
-### 2️⃣ **AI Schema Generation**
+###  **AI Schema Generation**
 - Automatically creates `customers`, `orders`, `products`, `payments` tables
 - Infers relationships and foreign keys
 - Suggests appropriate data types and constraints
 
-### 3️⃣ **Visual Refinement**
+###  **Visual Refinement**
 - Interactive ER diagram editing
 - Real-time relationship validation
 - Custom business rule injection
 
-### 4️⃣ **Intelligent Generation**
+###  **Intelligent Generation**
 - Context-aware data synthesis
 - Realistic value distributions
 - Temporal pattern preservation
 
-### 5️⃣ **Quality Augmentation**
+###  **Quality Augmentation**
 - Statistical enhancement
 - Edge case generation
 
